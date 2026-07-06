@@ -8,7 +8,7 @@ export const analyticsConfig: AnalyticsConfig = {
 	// Umami 统计配置
 	umamiAnalytics: {
 		// Umami Website ID
-		websiteId: "",
+		websiteId: "954c9c3b-02b5-4ddc-a939-6c0724035c4c",
 		// Umami JS地址，支持使用自建
 		scriptUrl: "https://cloud.umami.is/script.js",
 		// Umami 会话回放脚本地址，支持使用自建
@@ -34,7 +34,7 @@ export const analyticsConfig: AnalyticsConfig = {
 	// 51la 统计配置
 	la51Analytics: {
 		// 51la 统计 ID
-		Id: "",
+		Id: "3149419",
 		// 自定义 SDK JS 地址，防止 DNS 污染，留空使用默认地址
 		sdkUrl: "",
 		// 多个统计 ID 的数据分离标识，留空则使用 Id
